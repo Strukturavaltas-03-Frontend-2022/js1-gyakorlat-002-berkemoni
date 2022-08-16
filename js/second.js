@@ -24,4 +24,3 @@ const checker = (randomArr, value) => {
       someElementsAreNumbers: randomArr.some((el) => typeof el === "number"),
     };
   };
-  
